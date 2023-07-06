@@ -1,0 +1,22 @@
+.head {
+    margin: 10px;
+    padding: 10px;
+    color: rgb(255, 0, 128);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px solid tomato;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#col {
+    background-color: aqua;
+    text-align: center;
+    font-style: initial;
+    font-size: xx-large;
+}
+
+.img {
+    border: 5px solid rebeccapurple;
+    box-shadow: 10px gray 10px;
+}
